@@ -4,4 +4,4 @@ x1 = x0 + 1*(xn - x0)/n
 x2 = x0 + 2*(xn - x0)/n
 x3 = x0 + 3*(xn - x0)/n 
 
-![Screen](https://github.com/kp22FitkalDmytro/op-kp22-Fitlal/raw/sem_1_lab_1/Screen.PNG)
+https://github.com/kp22FitkalDmytro/op-kp22-Fitkal/blob/sem_1_lab_1/Screen.PNG?raw=true
