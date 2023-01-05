@@ -1,0 +1,19 @@
+enter size of square array:4
+        
+        
+        
+        
+Enter id of test scenario:1
+number of open Sites is:6
+is percolates:False
+
+
+enter size of square array:6
+        
+        
+        
+Enter id of test scenario:2       
+number of open Sites is:17
+is percolates:False
+
+
