@@ -1,28 +1,17 @@
-Laba 1
-Введіть початкову межу
--1.5
-Введіть кінцеву межу
--2.5
-Введіть крок функції
--1.5
-Для поточного x-1.5Результат:2.0297227
-
-Laba 2
-Введiть число
-5
-Число просте
+enter size of square array:4
+        
+        
+        
+        
+Enter id of test scenario:1
+number of open Sites is:6
+is percolates:False
 
 
-Laba 3
-Обчислення факторiала
-Введiть число  5
-5!=120
-Введiть x 
-3
-x в степенi n 
-243
-
-Laba 4
-Введіть число
-1
-0.8414709848078965
+enter size of square array:6
+        
+        
+        
+Enter id of test scenario:2       
+number of open Sites is:17
+is percolates:False
