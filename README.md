@@ -1,4 +1,4 @@
 
 # op-kp22-Fitkal
  
-![image](https://user-images.githubusercontent.com/117391309/232057311-2331e8f9-cbc6-4c63-beb0-5e7aaa24c1da.png)
+![image](https://user-images.githubusercontent.com/117391309/232057447-417bbb33-42ba-48e6-917f-0c6836c6098a.png)
