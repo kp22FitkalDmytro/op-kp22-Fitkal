@@ -1,0 +1,10 @@
+Dictionary: apple, banana, cat
+
+Input: dfd
+Output: WrongSpelling
+
+Input: cat
+Output: WrongSpelling
+
+Input: 2
+Output: WrongSpelling
