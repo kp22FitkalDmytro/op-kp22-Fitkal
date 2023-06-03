@@ -1,0 +1,10 @@
+"Deque:
+3
+1
+2
+4
+RandomizedQueue:
+C
+B
+D
+A"
