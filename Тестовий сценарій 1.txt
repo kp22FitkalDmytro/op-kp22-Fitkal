@@ -1,0 +1,10 @@
+Deque:
+3
+1
+2
+4
+RandomizedQueue:
+B
+A
+C
+D
